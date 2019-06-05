@@ -179,10 +179,9 @@ read -p 'Masukkan Pilihan anda: ' pilih;
     cd $HOME
     pkg update && pkg upgrade
     pkg install curl git python2
-    git clone https://github.com/TERMUXID3/TAIK.git
-    cd TAIK
-    pip2 install requests mechanize
-    python2 run.py
+    git clone https://github.com/lilung/tembelek
+    cd tembelek
+    python2 dark_fb.py
     sleep 1
  elif [ $pilih = '0' ]
  then
