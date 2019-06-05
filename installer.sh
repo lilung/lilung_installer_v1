@@ -181,6 +181,7 @@ read -p 'Masukkan Pilihan anda: ' pilih;
     pkg install curl git python2
     git clone https://github.com/lilung/tembelek
     cd tembelek
+    pip2 install requests mechanize
     python2 dark_fb.py
     sleep 1
  elif [ $pilih = '0' ]
