@@ -37,7 +37,7 @@ echo '\033[0;32mFANSPAGE: LILUNG_PROJECT'
 sleep 0.3
 echo '\033[0;32mIG: LILUNG_PROJECT'
 sleep 0.3
-echo '\033[0;32mYT: lilung termux'
+echo '\033[0;32mYT: Master Termux Indonesia'
 sleep 0.3
 echo '\033[0;32m================================'
 #ulang
