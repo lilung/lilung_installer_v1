@@ -48,7 +48,7 @@ do
 figlet -f slant "MENU"|lolcat
 echo '\033[1;0m0. SEBELUM MULAI INSTALL BAHAN DULU tulis 0'
 sleep 0.3
-echo '\033[0;31m1. install santet v2'
+echo '\033[0;31m1. install santet v2 (maaf sedang perbaikan)'
 sleep 0.3
 echo '\033[0;34m2. install tool pedang cctv'
 sleep 0.3
