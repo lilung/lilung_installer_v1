@@ -81,8 +81,6 @@ read -p 'Masukkan Pilihan anda: ' pilih;
     pkg install git
     git clone https://github.com/lilung/tool_santet_v2
     cd tool_santet_v2
-    unzip santet.zip
-    cd tool_santet_v2
     bash santet.sh
     sleep 1
  elif [ $pilih = '2' ] 
